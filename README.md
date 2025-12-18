@@ -2,7 +2,7 @@
 
 ## Running
 
-You must create `.env` in script directory file to store some configuration there. Example of `.env` structure:
+You must create `.env` file in script directory to store some configuration there. Example of `.env` structure:
 ```
 SCHEDULED_TIME="12:00"
 DUMP_TIME="12:00"
